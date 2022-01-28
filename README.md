@@ -16,7 +16,7 @@
   * O projeto deve ser concluído até 23:59
 
   # Regras pra mim 
-  Vou aderir as regras tambem hihi, mas vou fazer uma alteração, lembrando que não é obrigação, fique à vontade para fazer o mesmo, se quiser!
+  Vou aderir as regras tambem haha, mas vou fazer uma alteração, lembrando que não é obrigação, fique à vontade para fazer o mesmo, se quiser!
 
   * Se eu não concluir o projeto do dia, as 5 primeiras pessoas a apontar no Linkedin https://www.linkedin.com/in/thiago-tassinari-dev-front-end/ eu vou somar R$5 (total de R$25) numa quantia e ao final dos 30 dias irei doar toda essa quantia a uma instituição(a ser definida ainda).Adicionando um pouco de motivação para mim! 💸
   
@@ -35,18 +35,23 @@
  * [LinkedIn](https://www.linkedin.com/in/thiago-tassinari-dev-front-end/)
  * [GitHub](https://github.com/ThiagoTassinari)
   
-##### Vou atualizando aqui diariamente, qualquer dúvida estou a disposição 
+### Vou atualizando aqui diariamente, qualquer dúvida estou a disposição 
 
-* [Dia 01 - Ícone de mídia social em camadas](#id01)
+* [Dia 01 - Calculadora](#id01)
 
-##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![Dia 01](https://i.imgur.com/2jBQn1g.gif)
+##  Desafio dia 01 - Calculator UI Design - Claymorphism with Button Toggle to Dark | Light Mode <a name="id01"></a>
+
+<h2 align="center">
+  <img src="GIFs/calculator.gif" width:"1600" height:"800" />
+</h2>
 
 ##### O que eu aprendi
 
 
 * *Criar as camadas utilizando a tag `<span>`*
-* *[Transições CSS](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[CSS. Seletor de classe](https://www.w3schools.com/cssref/sel_class.asp)*
 * *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
-* *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
-* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[nth-child](https://www.w3schools.com/css/tryit.asp?filename=trycss_table_striped)*
+* *[Box shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)*
+* *[Input types](https://www.w3schools.com/html/html_form_input_types.asp)*
+* *[HTML Input Attributes](https://www.w3schools.com/html/html_form_attributes.asp)*
