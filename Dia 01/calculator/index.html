@@ -8,6 +8,10 @@
     <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
+    <div class="btn">
+        <strong>☀️</strong>
+        <strong>🌙</strong>
+    </div>
     <div class="container">
         <form class="calculator" name="calc">
             <input type="text" class="value" readonly name="txt">
@@ -50,5 +54,14 @@
             value=eval(calc.txt.value)"><i>=</i></span>
         </form>
     </div>
+
+    <script>
+        let body = document.querySelector('body')
+        let btn = document.querySelector('.btn')
+        
+        btn.onclick = function() {
+            body.classList.toggle('light')
+        }
+    </script>
 </body>
 </html>
