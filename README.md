@@ -7,7 +7,7 @@
 
  # Objetivo
 
-  30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 28 de Julho de 2022 (estou começando dia 28), que visa melhorar minhas habilidades em       HTML5 e CSS3 através da realização de projetos 
+  30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 30 de Julho de 2022 (estou começando dia 28), que visa melhorar minhas habilidades em       HTML5 e CSS3 através da realização de projetos 
   
   # Regras gerais
 
