@@ -38,20 +38,43 @@
 ### Vou atualizando aqui diariamente, qualquer dúvida estou a disposição 
 
 * [Dia 01 - Calculadora](#id01)
+* [Dia 02 - Action Menu Microinteractions](#id02)
 
 ##  Desafio dia 01 - Calculator UI Design - Claymorphism with Button Toggle to Dark | Light Mode <a name="id01"></a>
 
 <h2 align="center">
-  <img src="GIFs/calculator.gif" width:"1600" height:"800" />
+  <img src="GIFs/Dia01.gif" width:"800" height:"500" />
 </h2>
 
 ##### O que eu aprendi
 
+* *[CSS. Seletor de classe - w3school](https://www.w3schools.com/cssref/css_selectors.asp)*
+* *[CSS. Translate()](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate())*
+* *[CSS. :nth-child()](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)*
+* *[type="checkbox" in CSS](https://css-tricks.com/the-checkbox-hack/)*
+* *[Js. Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)*
 
-* *Criar as camadas utilizando a tag `<span>`*
-* *[CSS. Seletor de classe](https://www.w3schools.com/cssref/sel_class.asp)*
-* *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
-* *[nth-child](https://www.w3schools.com/css/tryit.asp?filename=trycss_table_striped)*
-* *[Box shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)*
-* *[Input types](https://www.w3schools.com/html/html_form_input_types.asp)*
-* *[HTML Input Attributes](https://www.w3schools.com/html/html_form_attributes.asp)*
+##### Sites de referência
+
+* *[MDN](https://developer.mozilla.org/en-US/)*
+* *[W3School](https://www.w3schools.com/)*
+
+##  Desafio dia 02 - Action Menu Microinteractions <a name="id02"></a>
+
+<h2 align="center">
+  <img src="GIFs/dia02.gif" width:"800" height:"500" />
+</h2>
+
+##### O que eu aprendi
+
+* *[CSS. Seletor de classe](https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors)*
+* *[CSS. Translate()](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate())*
+* *[CSS. :nth-child()](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)*
+* *[type="checkbox" in CSS](https://css-tricks.com/the-checkbox-hack/)*
+* *[Js. Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)*
+
+##### Sites de referência
+
+* *[MDN](https://developer.mozilla.org/en-US/)*
+* *[CSS tricks](https://css-tricks.com/)*
+* *[W3School](https://www.w3schools.com/)*
