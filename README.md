@@ -39,6 +39,14 @@
 
 * [Dia 01 - Calculadora](#id01)
 * [Dia 02 - Action Menu Microinteractions](#id02)
+* [Dia 03 - Game of the Snake](#id03)
+
+
+##### Sites de referência
+
+* *[MDN](https://developer.mozilla.org/en-US/)*
+* *[CSS tricks](https://css-tricks.com/)*
+* *[W3School](https://www.w3schools.com/)*
 
 ##  Desafio dia 01 - Calculator UI Design - Claymorphism with Button Toggle to Dark | Light Mode <a name="id01"></a>
 
@@ -54,11 +62,6 @@
 * *[type="checkbox" in CSS](https://css-tricks.com/the-checkbox-hack/)*
 * *[Js. Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)*
 
-##### Sites de referência
-
-* *[MDN](https://developer.mozilla.org/en-US/)*
-* *[W3School](https://www.w3schools.com/)*
-
 ##  Desafio dia 02 - Action Menu Microinteractions <a name="id02"></a>
 
 <h2 align="center">
@@ -73,8 +76,18 @@
 * *[type="checkbox" in CSS](https://css-tricks.com/the-checkbox-hack/)*
 * *[Js. Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)*
 
-##### Sites de referência
+##  Desafio dia 03 - Game of the Snake <a name="id03"></a>
 
-* *[MDN](https://developer.mozilla.org/en-US/)*
-* *[CSS tricks](https://css-tricks.com/)*
-* *[W3School](https://www.w3schools.com/)*
+<h2 align="center">
+  <img src="GIFs/Dia03.gif" width:"800" height:"500" />
+</h2>
+
+##### O que eu aprendi
+
+* *[HTML. CanvasElement.getContext()](https://developer.mozilla.org/pt-BR/docs/Web/API/HTMLCanvasElement/getContext)*
+* *[Métodos LocalStorage](https://developer.mozilla.org/pt-BR/docs/Web/API/Storage)*
+* *[Js. addEventListener()](https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener)*
+* *[Js. Object keys](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)*
+* *[DOM. Keydown](https://developer.mozilla.org/pt-BR/docs/Web/API/Document/keydown_event)*
+
+
