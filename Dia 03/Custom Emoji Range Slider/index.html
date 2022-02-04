@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Thiago Santos Tassinari">
+    <meta name="email" content="devtassinari@gmail.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Emoji Range Slider</title>
+    <link rel="stylesheet" href="./src/styles/main.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="section">
+            <div class="emojis">
+                <li class="slide-icon"><img src="./src/assets/img/emoji1.png" alt=""></li>
+                <li><img src="./src/assets/img/emoji2.png" alt=""></li>
+                <li><img src="./src/assets/img/emoji3.png" alt=""></li>
+                <li><img src="./src/assets/img/emoji4.png" alt=""></li>
+                <li><img src="./src/assets/img/emoji5.png" alt=""></li>
+            </div>
+        </div>
+        <div class="slider">
+            <div class="thumb"><span></span></div>
+            <div class="progress-bar"></div>
+            <input type="range" min="0" max="100" value="0">
+        </div>
+    </div>
+    
+    <script src="./src/scripts/main.js"></script>
+</body>
+</html>
