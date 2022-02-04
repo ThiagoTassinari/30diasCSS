@@ -39,8 +39,9 @@
 
 * [Dia 01 - Calculadora](#id01)
 * [Dia 02 - Action Menu Microinteractions](#id02)
-* [Dia 03 - Game of the Snake](#id02)
+* [Dia 02 - Game of the Snake](#id02)
 * [Dia 03 - Modern Animated_Menu_Toggle](#id03)
+* [Dia 03 - Custom_Emoji_Range_Slide](#id04)
 
 
 ##### Sites de referência
@@ -77,7 +78,7 @@
 * *[type="checkbox" in CSS](https://css-tricks.com/the-checkbox-hack/)*
 * *[Js. Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)*
 
-##  Desafios do dia 02 - Game of the Snake <a name="id02"></a>
+##  Desafios do dia 02 - Game of the Snake <a name="id03"></a>
 
 <h2 align="center">
   <img src="GIFs/Dia02/game_snake.gif" width:"800" height:"500" />
@@ -91,10 +92,23 @@
 * *[Js. Object keys](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)*
 * *[DOM. Keydown](https://developer.mozilla.org/pt-BR/docs/Web/API/Document/keydown_event)*
 
-##  Desafios do dia 03 - modern_animated_menu_toggle <a name="id03"></a>
+##  Desafios do dia 03 - modern_animated_menu_toggle <a name="id04"></a>
 
 <h2 align="center">
-  <img src="GIFs/Dia03/modern_animated_menu_toggle.gif" width:"800" height:"500" />
+  <img src="GIFs/Dia03/menu_toggle_button.gif" width:"800" height:"500" />
+</h2>
+
+##### O que eu aprendi
+
+* *[CSS. Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)*
+* *[CSS. Transform origin](https://css-tricks.com/almanac/properties/t/transform-origin/)*
+* *[Blog](https://danielcwilson.com/blog/2017/02/individual-transforms/)*
+* *[CSS. @Support](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports) *
+
+##  Desafios do dia 03 - custom_emoji_range_slide <a name="id05"></a>
+
+<h2 align="center">
+  <img src="GIFs/Dia03/custom_emoji_range_slide.gif" width:"900" height:"400" />
 </h2>
 
 ##### O que eu aprendi
