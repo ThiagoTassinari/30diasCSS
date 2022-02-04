@@ -113,7 +113,8 @@
 
 ##### O que eu aprendi
 
-* *[CSS. Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)*
-* *[CSS. Transform origin](https://css-tricks.com/almanac/properties/t/transform-origin/)*
-* *[Blog](https://danielcwilson.com/blog/2017/02/individual-transforms/)*
-* *[CSS. @Support](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports) *
+* *[Js. oninput Event](https://www.w3schools.com/jsref/event_oninput.asp)*
+* *[Js. GlobalEventHandlers.oninput](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/oninput)*
+* *[HTML. input type="range"](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range)*
+* *[HTML. Range Inputs](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)*
+* *[Gerador de range input](http://danielstern.ca/range.css/?ref=css-tricks#/)*
