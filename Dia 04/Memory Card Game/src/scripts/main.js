@@ -72,7 +72,11 @@ const checkCards = (e) => {
         if(flippedCards[0].getAttribute('name') === flippedCards[1].getAttribute('name')) {
             console.log("match");
         } else {
-            console.log("wrong")
+            console.log("wrong");
+            flippedCards.forEach((card) => {
+                card.classList.remove("flipped");
+                setTimeout(() => card.classList.remove("toggleCard"), 1000);
+            })
         }
     }
 }
