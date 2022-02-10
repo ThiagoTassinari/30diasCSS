@@ -157,8 +157,8 @@
 
 ##  Desafios do dia 05 - Sidebar Menu <a name="id07"></a>
 
-#### Link da URL para acessar aplicação: https://sidebar_menu.surge.sh
+#### Link da URL para acessar aplicação: https://sidebar_menu_toggle.surge.sh
 
 <h2 align="center">
-  <img src="GIFs/Dia05/sidebar_menu.gif" width:"900" height:"400" />
+  <img src="GIFs/Dia05/sidebar_menu_toggle _ Darkmode & Lightmode.gif" width:"900" height:"400" />
 </h2>
