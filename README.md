@@ -39,9 +39,11 @@
 
 * [Dia 01 - Calculadora](#id01)
 * [Dia 02 - Action Menu Microinteractions](#id02)
-* [Dia 02 - Game of the Snake](#id02)
-* [Dia 03 - Modern Animated_Menu_Toggle](#id03)
-* [Dia 03 - Custom_Emoji_Range_Slide](#id04)
+* [Dia 02 - Game of the Snake](#id03)
+* [Dia 03 - Modern Animated_Menu_Toggle](#id04)
+* [Dia 03 - Custom_Emoji_Range_Slide](#id05)
+* [Dia 04 - Game Memory Card](#id06)
+* [Dia 05 - Sidebar Menu](#id07)
 
 
 ##### Sites de referência
@@ -51,6 +53,8 @@
 * *[W3School](https://www.w3schools.com/)*
 
 ##  Desafio do dia 01 - Calculator UI Design - Claymorphism with Button Toggle to Dark | Light Mode <a name="id01"></a>
+
+#### Link da URL para acessar aplicação: https://calculator-glaymorphism.surge.sh
 
 <h2 align="center">
   <img src="GIFs/Dia01/calculator.gif" width:"850" height:"500" />
@@ -66,6 +70,8 @@
 
 ##  Desafios do dia 02 - Action Menu Microinteractions <a name="id02"></a>
 
+#### Link da URL para acessar aplicação: https://animation-menu.surge.sh
+
 <h2 align="center">
   <img src="GIFs/Dia02/action_menu_Microinteractions.gif" width:"800" height:"500" />
 </h2>
@@ -79,6 +85,8 @@
 * *[Js. Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)*
 
 ##  Desafios do dia 02 - Game of the Snake <a name="id03"></a>
+
+#### Link da URL para acessar aplicação: https://jogo-cobra.surge.sh
 
 <h2 align="center">
   <img src="GIFs/Dia02/game_snake.gif" width:"800" height:"500" />
@@ -94,6 +102,8 @@
 
 ##  Desafios do dia 03 - modern_animated_menu_toggle <a name="id04"></a>
 
+#### Link da URL para acessar aplicação: https://custom-emoji.surge.sh
+
 <h2 align="center">
   <img src="GIFs/Dia03/menu_toggle_button.gif" width:"800" height:"500" />
 </h2>
@@ -107,6 +117,8 @@
 
 ##  Desafios do dia 03 - custom_emoji_range_slide <a name="id05"></a>
 
+#### Link da URL para acessar aplicação: https://custom-emoji.surge.sh
+
 <h2 align="center">
   <img src="GIFs/Dia03/custom_emoji_range_slide.gif" width:"900" height:"400" />
 </h2>
@@ -118,3 +130,35 @@
 * *[HTML. input type="range"](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range)*
 * *[HTML. Range Inputs](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)*
 * *[Gerador de range input](http://danielstern.ca/range.css/?ref=css-tricks#/)*
+
+##  Desafios do dia 04 - Game Memory Card <a name="id06"></a>
+
+#### Link da URL para acessar aplicação: https://game_memory_card.surge.sh
+
+<h2 align="center">
+  <img src="GIFs/Dia04/game_memory_card.gif" width:"800" height:"400" />
+</h2>
+
+##### O que eu aprendi
+
+* *[CSS. Display grid](https://www.origamid.com/projetos/css-grid-layout-guia-completo/)*
+* *[Css. Display grid](https://css-tricks.com/snippets/css/complete-guide-grid/)*
+* *[Css. Transform-style](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-style)*
+* *[Css. backface-visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility)*
+* *[Css. backface-visibility](https://www.w3schools.com/cssref/css3_pr_backface-visibility.asp)*
+* *[Js. Sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)*
+* *[Js. forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)*
+* *[Js. setAttribute()](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute)*
+* *[Js. setAttribute()](https://www.w3schools.com/jsref/met_element_setattribute.asp)*
+* *[Js. setTimeout()](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)*
+* *[Js. setTimeout()](https://www.w3schools.com/jsref/met_win_settimeout.asp)*
+* *[Js. classlist()](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)*
+* *[Js. textContext()](https://programadorviking.com.br/queryselector-textcontent-javascript/)*
+
+##  Desafios do dia 05 - Sidebar Menu <a name="id07"></a>
+
+#### Link da URL para acessar aplicação: https://sidebar_menu.surge.sh
+
+<h2 align="center">
+  <img src="GIFs/Dia05/sidebar_menu.gif" width:"900" height:"400" />
+</h2>
