@@ -45,6 +45,7 @@
 * [Dia 04 - Game Memory Card](#id06)
 * [Dia 05 - Sidebar Menu](#id07)
 * [Dia 06 - Sound Plus](#id08)
+* [Dia 07 - Bulb on && off](#id09)
 
 
 ##### Sites de referência
@@ -178,3 +179,16 @@
 * *[CSS. background](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background)*
 * *[Js. keyboardEvent](https://developer.mozilla.org/pt-BR/docs/Web/API/KeyboardEvent)*
 * *[Js. keyboard](https://www.w3.org/WAI/WCAG21/Techniques/css/C15.html)*
+
+##  Desafio do dia 07 - Bulb on && off <a name="id09"></a>
+
+#### Link da URL para acessar aplicação: https://on_off_bulb.surge.sh
+
+<h2 align="center">
+  <img src="GIFs/Dia07/off_on_bulb.gif" width:"900" height:"400" />
+</h2>
+
+##### O que eu aprendi
+
+* *[Css. :checked](https://developer.mozilla.org/en-US/docs/Web/CSS/:checked)*
+* *[Css. filter:drop-shadow()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow())*
