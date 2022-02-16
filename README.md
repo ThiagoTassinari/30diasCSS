@@ -44,6 +44,7 @@
 * [Dia 03 - Custom_Emoji_Range_Slide](#id05)
 * [Dia 04 - Game Memory Card](#id06)
 * [Dia 05 - Sidebar Menu](#id07)
+* [Dia 06 - Sound Plus](#id08)
 
 
 ##### Sites de referência
@@ -102,7 +103,7 @@
 
 ##  Desafios do dia 03 - modern_animated_menu_toggle <a name="id04"></a>
 
-#### Link da URL para acessar aplicação: https://custom-emoji.surge.sh
+#### Link da URL para acessar aplicação: https://menu-toggle-button.surge.sh
 
 <h2 align="center">
   <img src="GIFs/Dia03/menu_toggle_button.gif" width:"800" height:"500" />
@@ -162,3 +163,18 @@
 <h2 align="center">
   <img src="GIFs/Dia05/sidebar_menu_toggle _ Darkmode & Lightmode.gif" width:"900" height:"400" />
 </h2>
+
+##  Desafios do dia 06 - Sound Plus <a name="id08"></a>
+
+#### Link da URL para acessar aplicação: https://sound_plus.surge.sh
+
+<h2 align="center">
+  <img src="GIFs/Dia06/sound_plus.gif" width:"900" height:"400" />
+</h2>
+
+##### O que eu aprendi
+
+* *[CSS. gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient())*
+* *[CSS. background](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background)*
+* *[Js. keyboardEvent](https://developer.mozilla.org/pt-BR/docs/Web/API/KeyboardEvent)*
+* *[Js. keyboard](https://www.w3.org/WAI/WCAG21/Techniques/css/C15.html)*
