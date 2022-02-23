@@ -31,7 +31,7 @@ searchInput.addEventListener("keyup", () => {
     arr = countries.filter(data => {
         return data.toLowerCase().startsWith(searchedVal);
     }).map(data => `<li>${data}</li>`).join("");
-    console.log(arr);
+    options.innerHTML = arr ? arr : `<p>Ops! Country not found</p>`;
 })
 
 selectBtn.addEventListener("click", () => {
