@@ -4,6 +4,10 @@
     --bg-color-main: #4285F4;
     --bg-main: #FFFFFF;
     --border-color-input: #B3B3B3;
+
+    --shadow: #43a047;
+    --scrollbarBG: #eee;
+    --thumbBG: #4285F4;
 }
 
 * {
@@ -86,16 +90,16 @@ body {
 }
 
 .options::-webkit-scrollbar {
-    width: 7px;
+    width: 10px;
 }
 
-.options::-webkit-scrollbar-track {
-    background: #F1F1F1;
+.options::-webkit-scrollbar-track { /* Background */
+    background: var(--scrollbarBG);
     border-radius: 25px;
 }
 
-.options::-webkit-scrollbar-thumb {
-    background: #CCCCCC;
+.options::-webkit-scrollbar-thumb { /* Foreground */
+    background: var(--thumbBG);
     border-radius: 25px;
 }
 
