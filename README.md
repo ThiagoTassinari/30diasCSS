@@ -48,6 +48,7 @@
 * [Dia 07 - Bulb on && off](#id09)
 * [Dia 08 - Analogic Clock](#id10)
 * [Dia 09 - Theme Button Mode || Dark and Light](#id11)
+* [Dia 10 - Custom Select Menu](#id12)
 
 
 ##### Sites de referência
@@ -223,3 +224,22 @@
 * *[Js. String.prototype.replace()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)*
 * *[Css. setProperty()](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/setProperty)*
 * *[Css. getComputedStyle()](https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle)*
+
+##  Desafio do dia 10 - Custom Select Menu <a name="id12"></a>
+
+#### Link da URL para acessar aplicação: https://custom_select_menu.surge.sh
+
+<h2 align="center">
+  <img src="GIFs/Dia10/custom_select_menu.gif" width:"900" height:"500" />
+</h2>
+
+##### O que eu aprendi
+
+* *[Css. scrollbar](https://css-tricks.com/almanac/properties/s/scrollbar/)*
+* *[Css. scrollbar](https://css-tricks.com/the-current-state-of-styling-scrollbars-in-css/)*
+* *[Css. scrollbar](https://css-tricks.com/webkit-html5-search-inputs/)*
+* *[Css. scroball](https://css-tricks.com/css-scrollbar-with-progress-meter/)*
+* *[Css. boxShadow](https://css-tricks.com/almanac/properties/b/box-shadow/)*
+* *[Js. Array.prototype.filter()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)*
+* *[Js. Map](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map)*
+* *[String.prototype.startsWith()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith)*
