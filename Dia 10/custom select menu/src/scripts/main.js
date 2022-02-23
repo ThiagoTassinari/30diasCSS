@@ -60,12 +60,17 @@ let countries = [
 function addCountry() {
     countries.forEach(country => {
         // Adding each country inside and inserting all li inside options tag
-        let li = `<li>${country.name}</li>`;
+        let li = `<li onclick="updateName(this)">${country.name}</li>`;
         options.insertAdjacentHTML("beforeend", li); 
     })
 }
-
 addCountry();
+
+function updateName(selectedLi) {
+    wrapper.classList.remove("active");
+    selectBtn.firstElementChild.innerText = selectedLi.innerText;
+}
+
 
 selectBtn.addEventListener("click", () => {
     wrapper.classList.toggle("active");
