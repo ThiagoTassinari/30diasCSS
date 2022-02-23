@@ -10,6 +10,7 @@ let countries = [
 ] 
 
 function addCountry() {
+    options.innerHTML = "";
     countries.forEach(country => {
         // Adding each country inside and inserting all li inside options tag
         let li = `<li onclick="updateName(this)">${country}</li>`;
@@ -19,6 +20,8 @@ function addCountry() {
 addCountry();
 
 function updateName(selectedLi) {
+    searchInput.value = "";
+    addCountry();
     wrapper.classList.remove("active");
     selectBtn.firstElementChild.innerText = selectedLi.innerText;
 }
@@ -30,7 +33,7 @@ searchInput.addEventListener("keyup", () => {
     // and mapping returned country with li and joining them
     arr = countries.filter(data => {
         return data.toLowerCase().startsWith(searchedVal);
-    }).map(data => `<li>${data}</li>`).join("");
+    }).map(data => `<li onclick="updateName(this)">${data}</li>`).join("");
     options.innerHTML = arr ? arr : `<p>Ops! Country not found</p>`;
 })
 
