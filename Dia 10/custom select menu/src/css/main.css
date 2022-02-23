@@ -82,6 +82,7 @@ body {
     margin-top: 10px;
     max-height: 250px;
     overflow-y: auto;
+    padding-right: 7px;
 }
 
 .options::-webkit-scrollbar {
@@ -105,6 +106,6 @@ body {
     border-radius: 5px;
 }
 
-.options li:hover {
+.options li:hover, li.selected {
     background: #F2F2F2;
 }

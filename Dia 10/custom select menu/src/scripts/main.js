@@ -9,11 +9,13 @@ let countries = [
     'Chile', 'Cameroon', 'Comoros', 'Dinarmark'
 ] 
 
-function addCountry() {
+function addCountry(selectedCountry) {
     options.innerHTML = "";
     countries.forEach(country => {
+        // if selected country and country value is same then add selected class
+        let isSelected = country == selectedCountry ? "selected" : "";
         // Adding each country inside and inserting all li inside options tag
-        let li = `<li onclick="updateName(this)">${country}</li>`;
+        let li = `<li onclick="updateName(this)" class="${isSelected}">${country}</li>`;
         options.insertAdjacentHTML("beforeend", li); 
     })
 }
@@ -21,7 +23,7 @@ addCountry();
 
 function updateName(selectedLi) {
     searchInput.value = "";
-    addCountry();
+    addCountry(selectedLi.innerText);
     wrapper.classList.remove("active");
     selectBtn.firstElementChild.innerText = selectedLi.innerText;
 }
