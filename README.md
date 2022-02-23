@@ -46,6 +46,8 @@
 * [Dia 05 - Sidebar Menu](#id07)
 * [Dia 06 - Sound Plus](#id08)
 * [Dia 07 - Bulb on && off](#id09)
+* [Dia 08 - Analogic Clock](#id10)
+* [Dia 09 - Theme Button Mode || Dark and Light](#id11)
 
 
 ##### Sites de referência
@@ -192,3 +194,32 @@
 
 * *[Css. :checked](https://developer.mozilla.org/en-US/docs/Web/CSS/:checked)*
 * *[Css. filter:drop-shadow()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow())*
+
+##  Desafio do dia 08 - Analogic Clock <a name="id10"></a>
+
+#### Link da URL para acessar aplicação: https://clock-analogic.surge.sh
+
+<h2 align="center">
+  <img src="GIFs/Dia08/analogic_clock.gif" width:"900" height:"400" />
+</h2>
+
+##### O que eu aprendi
+
+* *[Css. :checked](https://developer.mozilla.org/en-US/docs/Web/CSS/:checked)*
+* *[Css. grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)*
+* *[Css. grid] (https://css-tricks.com/snippets/css/complete-guide-grid/)*
+* *[Css. z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)*
+
+##  Desafio do dia 09 - Toggle Button Mode || Dark and Light <a name="id11"></a>
+
+#### Link da URL para acessar aplicação: https://theme_mode.surge.sh
+
+<h2 align="center">
+  <img src="GIFs/Dia09/btn_mode_theme.gif" width:"900" height:"400" />
+</h2>
+
+##### O que eu aprendi
+
+* *[Js. String.prototype.replace()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)*
+* *[Css. setProperty()](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/setProperty)*
+* *[Css. getComputedStyle()](https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle)*
