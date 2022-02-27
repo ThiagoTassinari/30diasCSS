@@ -243,3 +243,15 @@
 * *[Js. Array.prototype.filter()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)*
 * *[Js. Map](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map)*
 * *[String.prototype.startsWith()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith)*
+
+##  Desafio do dia 11 - Not war <a name="id13"></a>
+
+#### Link da URL para acessar aplicação: https://not_war.surge.sh
+
+<h2 align="center">
+  <img src="GIFs/Dia11/not_war.gif" width:"1000" height:"400" />
+</h2>
+
+##### O que eu aprendi
+
+* *[Css. -webkit-text-stroke](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke)*
